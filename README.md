@@ -1,11 +1,11 @@
 ![Project Header](models/h1.jpg)
 
 [![Python](https://img.shields.io/badge/Python-3.12%2B-blue)]()
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.5%2B-orange)]()
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.9%2B-green)]()
 [![Seaborn](https://img.shields.io/badge/Seaborn-0.13%2B-lightgrey)]()
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)]()
-
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.20%2B-orange)]()
+[![Keras](https://img.shields.io/badge/Keras-3.10%2B-red)]()
 # Overview
 
 In this project, students will first build a Convolutional Neural Network (CNN) model from scratch to classify images from a given dataset into predefined categories. Then, they will implement a transfer learning approach using a pre-trained model. Finally, students will compare the performance of the custom CNN and the transfer learning model based on evaluation metrics and analysis.
@@ -16,9 +16,9 @@ The dataset for this task is the CIFAR-10 dataset, which consists of 60,000 32x3
 
 This project explores different models:
 
-1. **EfficientNetB0**
-2. **EfficientNetB2**
-3. **EfficientNetB4**
+1. **[EfficientNetB0](https://keras.io/api/applications/efficientnet/#efficientnetb0-function)**
+2. **[EfficientNetB2](https://keras.io/api/applications/efficientnet/#efficientnetb2-function)**
+3. **[EfficientNetB4](https://keras.io/api/applications/efficientnet/#efficientnetb4-function)**
 
 We decided to use EfficientNetB4 given its ability to handle low and high image resolutions as well as having a low performance usage, so the model is not too complex nor heavy to run.
 
