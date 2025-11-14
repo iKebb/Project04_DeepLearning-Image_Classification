@@ -169,15 +169,15 @@ model.predict(data)
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/hitchcock9000">
-        <img src="https://avatars.githubusercontent.com/u/210351622?v=4" width="100px;" alt="Diogo"/><br>
-        <sub><b>Natasha</b></sub>
+      <a href="https://github.com/Diogobme">
+        <img src="https://avatars.githubusercontent.com/u/236394808?v=4" width="100px;" alt="Diogo"/><br>
+        <sub><b>Diogo</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/rafaeldr5150">
-        <img src="https://avatars.githubusercontent.com/u/236024727?v=4" width="100px;" alt="Eloisa"/><br>
-        <sub><b>Rafael</b></sub>
+      <a href="https://github.com">
+        <img src="https://avatars.githubusercontent.com/u/91424727?v=4" width="100px;" alt="Eloisa"/><br>
+        <sub><b>Eloisa</b></sub>
       </a>
     </td>
   </tr>
@@ -192,4 +192,4 @@ This project is free of license. Feel free to use it!
 - **Via E-mail** - [keberth12@gmail.com](mailto:keberth12@gmail.com)
 - **Via LinkedIn** - [Keberth José Rodríguez Albino](https://www.linkedin.com/in/keberth-josera-vkse1666)
 
-Repo link: https://github.com/iKebb/Ironhack-Project03_IronKaggle
+Repo link: https://github.com/iKebb/Project04_DeepLearning-Image_Classification
